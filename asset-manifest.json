@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MB_cars/static/css/main.7acaea2f.css",
+    "main.js": "/MB_cars/static/js/main.018d8a7f.js",
+    "index.html": "/MB_cars/index.html",
+    "main.7acaea2f.css.map": "/MB_cars/static/css/main.7acaea2f.css.map",
+    "main.018d8a7f.js.map": "/MB_cars/static/js/main.018d8a7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.018d8a7f.js"
+  ]
+}
